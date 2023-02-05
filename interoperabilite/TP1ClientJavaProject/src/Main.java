@@ -11,7 +11,7 @@ public class Main {
     // Under Visual Studio Code, build the CMake project then right-click your
     // build/Debug folder, select 'Reveal in File Explorer'
     // Make sure the path to the test.txt file is correct!
-    private static String watchFile = "C:/Users/AslaN/Desktop/testBureau.txt";
+    private static String watchFile = "C:/Users/AslaN/Desktop/test.txt";
 
     private static FileWatcher watcher;
     private static Thread thread;
